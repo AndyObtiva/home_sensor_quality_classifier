@@ -2,6 +2,7 @@ require_relative '../rspec_helper'
 require_relative '../../lib/sensor_evaluator'
 
 RSpec.describe SensorEvaluator do
+  # TODO refine tests further
   it 'works' do
     output = SensorEvaluator.new('whatever').classify_sensors
     expected_value = {

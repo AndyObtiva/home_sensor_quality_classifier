@@ -151,3 +151,9 @@ These are identified by assigning object responsibilities above to the appropria
   - Carbon Monoxide Detector Classification Strategy
 - Output Builder: builds sensor classification output in format matching Requirements Specification
 
+#TODO TASKS
+
+- Validations
+- Security
+- Performance
+- Gemify (Jewel?)
